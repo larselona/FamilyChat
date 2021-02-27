@@ -1,0 +1,6 @@
+module Pods_FamilyChat {
+  umbrella header "Pods-FamilyChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
